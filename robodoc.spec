@@ -53,7 +53,7 @@ pow³oki i COBOL; ogólnie z ka¿dym jêzykiem obs³uguj±cy komentarze.
 %{__aclocal}
 %{__autoconf}
 %{__autoheader}
-#%{__automake}
+#%%{__automake}
 %configure
 #--prefix=$RPM_BUILD_ROOT%{_prefix} --mandir=$RPM_BUILD_ROOT%{_mandir}
 %{__make}
