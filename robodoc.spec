@@ -7,7 +7,8 @@ License:	GPL v2
 Group:		Development/Tools
 Source0:	http://download.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 URL:		http://sourceforge.net/projects/robodoc/
-#BuildRequires:	-
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -49,7 +50,7 @@ pow³oki i COBOL; ogólnie z ka¿dym jêzykiem obs³uguj±cy komentarze.
 %setup -q
 
 %build
-aclocal
+%{__aclocal}
 %{__autoconf}
 autoheader
 #%{__automake}
