@@ -1,12 +1,12 @@
 Summary:	ROBODoc - extract documentation from source code
 Summary(pl):	ROBODoc - narzêdzie wyci±gaj±ce dokumentacjê z kodu ¼ród³owego
 Name:		robodoc
-Version:	4.0.18
+Version:	4.0.24
 Release:	1
 License:	GPL v2
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
-# Source0-md5:	98f3f4629f66ab779285586abcdf9f57
+# Source0-md5:	42713811c708975b980ea1e422ae9fbc
 URL:		http://sourceforge.net/projects/robodoc/
 BuildRequires:	autoconf
 BuildRequires:	automake
