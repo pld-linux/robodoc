@@ -5,7 +5,7 @@ Version:	3.2.3
 Release:	1
 License:	GPL v2
 Group:		Development/Tools
-Source0:	http://download.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	91ad2470d95e3ba1b4287737ddb751bb
 URL:		http://sourceforge.net/projects/robodoc/
 BuildRequires:	autoconf
