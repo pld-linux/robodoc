@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	f3cd237382d805130b817b3c8cd32834
-URL:		http://sourceforge.net/projects/robodoc/
+URL:		http://robodoc.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
