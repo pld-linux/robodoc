@@ -1,5 +1,5 @@
 Summary:	ROBODoc - extract documentation from source code
-Summary(pl):	ROBODoc - narzêdzie wyci±gaj±ce dokumentacjê z kodu ¼ród³owego
+Summary(pl.UTF-8):   ROBODoc - narzÄ™dzie wyciÄ…gajÄ…ce dokumentacjÄ™ z kodu ÅºrÃ³dÅ‚owego
 Name:		robodoc
 Version:	4.99.6
 Release:	1
@@ -30,22 +30,22 @@ Assembler, C, Perl, LISP, Occam, Tcl/Tk, Pascal, Fortran, shell
 scripts, and COBOL, basically any language that supports
 comments/remarks.
 
-%description -l pl
-ROBODoc to narzêdzie do dokumentacji (bazuj±ce na programie AutoDocs
-napisanym dawno temu przez Commodore). Wyci±ga ono specjalnie
-sformatowane nag³ówki z komentarzami z plików ¼ród³owych i umieszcza
-je w osobnym pliku. ROBODoc pozwala na do³±czanie dokumentacji
-programu w kodzie ¼ród³owym i zapobiega konieczno¶ci zarz±dzania dwoma
+%description -l pl.UTF-8
+ROBODoc to narzÄ™dzie do dokumentacji (bazujÄ…ce na programie AutoDocs
+napisanym dawno temu przez Commodore). WyciÄ…ga ono specjalnie
+sformatowane nagÅ‚Ã³wki z komentarzami z plikÃ³w ÅºrÃ³dÅ‚owych i umieszcza
+je w osobnym pliku. ROBODoc pozwala na doÅ‚Ä…czanie dokumentacji
+programu w kodzie ÅºrÃ³dÅ‚owym i zapobiega koniecznoÅ›ci zarzÄ…dzania dwoma
 oddzielnymi dokumentami.
 
-ROBODoc mo¿e formatowaæ dokumentacjê w formatach: HTML, ASCII,
-AmigaGuide, LaTeX oraz RTF. Mo¿na tak¿e do³±czaæ czê¶ci kodu
-¼ród³owego z nazwami funkcji wskazanymi w ich dokumentacji. Mo¿e tak¿e
-tworzyæ tabele z indeksami wszystkich zmiennych, klas, funkcji itp.
+ROBODoc moÅ¼e formatowaÄ‡ dokumentacjÄ™ w formatach: HTML, ASCII,
+AmigaGuide, LaTeX oraz RTF. MoÅ¼na takÅ¼e doÅ‚Ä…czaÄ‡ czÄ™Å›ci kodu
+ÅºrÃ³dÅ‚owego z nazwami funkcji wskazanymi w ich dokumentacji. MoÅ¼e takÅ¼e
+tworzyÄ‡ tabele z indeksami wszystkich zmiennych, klas, funkcji itp.
 
-Najlepsz± cech± ROBODoc jest to, ¿e dzia³a z wieloma jêzykami:
+NajlepszÄ… cechÄ… ROBODoc jest to, Å¼e dziaÅ‚a z wieloma jÄ™zykami:
 asembler, C, Perl, LISP, Occam, Tcl/Tk, Pascal, Fortran, skrypty
-pow³oki i COBOL; ogólnie z ka¿dym jêzykiem obs³uguj±cy komentarze.
+powÅ‚oki i COBOL; ogÃ³lnie z kaÅ¼dym jÄ™zykiem obsÅ‚ugujÄ…cy komentarze.
 
 %prep
 %setup -q
