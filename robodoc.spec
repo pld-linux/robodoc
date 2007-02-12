@@ -1,5 +1,5 @@
 Summary:	ROBODoc - extract documentation from source code
-Summary(pl.UTF-8):   ROBODoc - narzędzie wyciągające dokumentację z kodu źródłowego
+Summary(pl.UTF-8):	ROBODoc - narzędzie wyciągające dokumentację z kodu źródłowego
 Name:		robodoc
 Version:	4.99.6
 Release:	1
